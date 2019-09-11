@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import Notifications from 'components/Notifications';
+import Notifications from '~/components/Notifications';
 import logo from '~/assets/logopurple.svg';
 
 import { Container, Content, Profile } from './styles';
