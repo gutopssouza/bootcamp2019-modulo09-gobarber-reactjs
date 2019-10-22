@@ -31,7 +31,7 @@ export default function Profile() {
         <Input name="oldPassword" type="password" placeholder="Sua senha" />
         <Input name="password" type="password" placeholder="Nova senha" />
         <Input
-          name="confirmaPassword"
+          name="confirmPassword"
           type="password"
           placeholder="Confirmação de senha"
         />
